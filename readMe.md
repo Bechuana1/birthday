@@ -11,7 +11,7 @@ The following code snippet demonstrates how to use the Web Audio API to play a s
 
 Before running this code, make sure you have a compatible web browser that supports the Web Audio API.
 
-### Resources
+
 ### Resources
 
 - [Web Audio API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
@@ -49,3 +49,6 @@ Create a gain node using createGain() for controlling the volume.
 Update the timing for the next note.
 Connect the oscillator to the gain node and the gain node to the destination (audio output).
 The code will play the sequence of notes using the Web Audio API.
+
+
+` The value 1.06 is used as a multiplier to calculate the frequency of each note. It represents a musical interval called a "semitone" or "half step" in Western music.

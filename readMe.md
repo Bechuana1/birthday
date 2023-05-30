@@ -11,6 +11,12 @@ The following code snippet demonstrates how to use the Web Audio API to play a s
 
 Before running this code, make sure you have a compatible web browser that supports the Web Audio API.
 
+### Resources
+### Resources
+
+- [Web Audio API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+
+
 
 
 ### Code Explanation
